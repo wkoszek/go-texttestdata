@@ -29,6 +29,11 @@ Install the package:
 		fmt.Println(string(gotestdata.PictureOfDorianGrey));
 	}
 
+There is an example which you can build:
+
+	cd ./examples/
+	go build example.go
+
 ## Contributions
 
 I was able to provide some additional `.txt` thanks to: [https://github.com/ssbc/ssb-testnet.git](https://github.com/ssbc/ssb-testnet.git
