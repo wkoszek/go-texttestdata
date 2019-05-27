@@ -1,6 +1,6 @@
-# Test text data for development
+# Golang package with text test data for development
 
-This package is simple, and it makes it easy for a Golang program
+This package makes it easy for a Golang program
 to get a large body of a (non-trivial) English text.
 
 ## Quickstart
